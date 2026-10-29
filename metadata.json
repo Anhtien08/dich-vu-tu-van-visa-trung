@@ -1,0 +1,6 @@
+{
+  "name": "Visa5S - Dịch Vụ Visa Trung Quốc Chuyên Nghiệp",
+  "description": "Nền tảng tư vấn và hỗ trợ chuẩn bị hồ sơ xin visa Trung Quốc uy tín, minh bạch chi phí, nhanh chóng và tận tâm từ Visa5S Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

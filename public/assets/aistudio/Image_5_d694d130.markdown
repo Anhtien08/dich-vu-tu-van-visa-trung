@@ -1,0 +1,228 @@
+---
+name: Visa5S Modern Consular
+colors:
+  surface: '#faf8ff'
+  surface-dim: '#d2d9f4'
+  surface-bright: '#faf8ff'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f2f3ff'
+  surface-container: '#eaedff'
+  surface-container-high: '#e2e7ff'
+  surface-container-highest: '#dae2fd'
+  on-surface: '#131b2e'
+  on-surface-variant: '#43474f'
+  inverse-surface: '#283044'
+  inverse-on-surface: '#eef0ff'
+  outline: '#747780'
+  outline-variant: '#c3c6d0'
+  surface-tint: '#405f8e'
+  primary: '#001f41'
+  on-primary: '#ffffff'
+  primary-container: '#0f3460'
+  on-primary-container: '#7f9dd0'
+  inverse-primary: '#a9c8fc'
+  secondary: '#0051d5'
+  on-secondary: '#ffffff'
+  secondary-container: '#316bf3'
+  on-secondary-container: '#fefcff'
+  tertiary: '#470002'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#6f0006'
+  on-tertiary-container: '#ff6e62'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#d5e3ff'
+  primary-fixed-dim: '#a9c8fc'
+  on-primary-fixed: '#001b3c'
+  on-primary-fixed-variant: '#274774'
+  secondary-fixed: '#dbe1ff'
+  secondary-fixed-dim: '#b4c5ff'
+  on-secondary-fixed: '#00174b'
+  on-secondary-fixed-variant: '#003ea8'
+  tertiary-fixed: '#ffdad6'
+  tertiary-fixed-dim: '#ffb4ab'
+  on-tertiary-fixed: '#410002'
+  on-tertiary-fixed-variant: '#93000b'
+  background: '#faf8ff'
+  on-background: '#131b2e'
+  surface-variant: '#dae2fd'
+typography:
+  display-lg:
+    fontFamily: Be Vietnam Pro
+    fontSize: 48px
+    fontWeight: '700'
+    lineHeight: 56px
+    letterSpacing: -0.02em
+  display-lg-mobile:
+    fontFamily: Be Vietnam Pro
+    fontSize: 32px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Be Vietnam Pro
+    fontSize: 32px
+    fontWeight: '600'
+    lineHeight: 40px
+    letterSpacing: -0.015em
+  headline-lg-mobile:
+    fontFamily: Be Vietnam Pro
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Be Vietnam Pro
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Be Vietnam Pro
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+  body-lg:
+    fontFamily: Be Vietnam Pro
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-md:
+    fontFamily: Be Vietnam Pro
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  body-sm:
+    fontFamily: Be Vietnam Pro
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.04em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 2rem
+  margin-mobile: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system establishes a high-credibility, efficient, and sophisticated digital embassy experience tailored for cross-border travel facilitation—specifically outbound Chinese travel and inbound international visa services managed from Vietnam. 
+
+### Brand Personality & Core Principles
+- **Authoritative & Legitimate:** Evokes the institutional rigor of government portals paired with the friction-free clarity of tier-one modern fintech applications.
+- **Fastidious & Reassuring:** Every interface state must convey procedural accuracy, transparent timelines, and security of sensitive identification documents.
+- **Action-Oriented & Clear:** Complex consular guidelines are translated into legible progress indicators, unmistakable action paths, and low-friction document intakes.
+
+### Design Aesthetic
+The visual paradigm pairs **Corporate Modern** with **Structural Clarity**. Interfaces utilize pristine white and slate canvases, high-precision slate borders (`#e2e8f0`), deep maritime blue architecture, and deliberate crimson/ruby points of focal interest denoting urgent travel prerequisites and diplomatic accents.
+
+## Colors
+
+The palette establishes an immediate perception of institutional stability, compliance, and procedural momentum.
+
+### Color Tokens & Assignments
+- **Primary (`#0f3460` - Deep Consular Navy):** Governs core chrome, high-level headers, primary brand marks, authoritative banners, and active navigation frameworks. A secondary supporting navy (`#1e3a8a`) handles focused state layers and sub-navigation cards.
+- **Secondary (`#2563eb` - Royal Accent Blue):** Anchors conversion momentum. Used exclusively for primary interactive targets (CTA buttons, track-my-visa submission actions, active timeline pills, and interactive link states).
+- **Tertiary (`#dc2626` - Imperial Crimson):** Applied with deliberate restraint to indicate expedited services, mandatory document alerts, critical consular advisories, and the visual stamp of Chinese destination accents.
+- **Neutral Light Grounds (`#ffffff`, `#f8fafc`):** Clean white creates high-contrast document clarity, while `#f8fafc` structures the surrounding canvas, providing subtle contrast for white utility cards.
+- **Borders & Dividers (`#e2e8f0`):** Precise 1px structural framing preventing floating ambiguously over backgrounds.
+- **Text & Content Neutral (`#0f172a`):** Maximum contrast slate black for guaranteed legal and typographic accessibility across both desktop and mobile devices.
+
+## Typography
+
+The type system balances localized Vietnamese tone marks with international clarity. 
+
+- **Be Vietnam Pro** serves as the primary editorial and structural typeface for headers and dense consular reading blocks, providing native support for complex diacritics without awkward line-height clippings or unbalanced glyph weights.
+- **Inter** handles data tables, technical labels, consular serial tracking, badges, form tags, and button text, ensuring high legibility at micro scales.
+- Strict tracking reductions (`-0.01em` to `-0.02em`) are applied to display headings to guarantee an authoritative, newspaper-grade poise.
+
+## Layout & Spacing
+
+A structured 12-column layout grid on desktop anchors multi-step application journeys, flanked by a sticky right-rail summary card.
+
+### Screen Adaptations & Breakpoints
+- **Mobile (< 768px):** 4-column layout, `margin-mobile: 1rem`, `gutter-mobile: 1rem`. Bottom sheets replace sticky summary sidebars; horizontal application progress steps collapse into an accordion or numbered indicator with step tags.
+- **Tablet (768px – 1024px):** 8-column layout, `margin: 1.5rem`, `gutter: 1rem`. Form elements sit 2-up; utility cards collapse symmetrically.
+- **Desktop (> 1024px):** 12-column layout, `margin: 2rem` (capped at max container width `1280px`), `gutter: 1.5rem`. Forms span 8 columns, while the tracking card, review breakdown, and hotline trust module occupy the remaining 4 columns.
+
+### Rhythms & Gaps
+Internal card padding maintains strict increments: `space-md` for interactive controls and micro-cards, scaling to `space-lg` and `space-xl` for sectional enclosures and category breakdowns.
+
+## Elevation & Depth
+
+This system avoids heavy drop shadows in favor of an **institutional crispness** achieved through tonal layering, crisp borders, and soft ambient elevation.
+
+- **Level 0 (Base):** Canvas surface `#f8fafc`. Borders are absent.
+- **Level 1 (Card & Content Surface):** Solid `#ffffff` surface, bounded by a 1px border of `#e2e8f0`. Ambient shadow: `0 1px 3px 0 rgba(15, 52, 96, 0.04), 0 1px 2px -1px rgba(15, 52, 96, 0.02)`.
+- **Level 2 (Hover & Focus States):** Subtle lift applied to selectable visa categories. Ambient shadow: `0 10px 15px -3px rgba(15, 52, 96, 0.07), 0 4px 6px -4px rgba(15, 52, 96, 0.04)`, border darkens to `#cbd5e1`.
+- **Level 3 (Modals, Overlays & Sticky Tracking Drawers):** `0 20px 25px -5px rgba(15, 23, 42, 0.1), 0 8px 10px -6px rgba(15, 23, 42, 0.05)`.
+- **Trust Elements & Badges:** Utilize flat fills paired with high-contrast hairline borders rather than elevation to maintain a clean, document-inspired finish.
+
+## Shapes
+
+The geometric strategy uses **Rounded (Value: 2)**, applying clean, architectural rounding that conveys both approachable consumer trust and official reliability.
+
+- **Inputs, Buttons, and Micro-pills:** Standard `0.5rem` (`8px`) border radius. This delivers an ergonomic touch target without reading as overly playful or casual.
+- **Cards, Document Containers, and Modal Panels:** Standard `rounded-lg` at `1rem` (`16px`) for unified framing.
+- **Verification Badges & Pill Chips:** Full pill radius (`9999px`) reserved strictly for consular status tags (e.g., "Approved", "In Review", "Urgent Processing").
+
+## Components
+
+### Buttons
+- **Primary Action (Application Submission, Search Visas):** Background `#2563eb`, text `#ffffff`, height `48px`, font `label-lg`. On hover: `#1d4ed8`. Focused: outline `2px solid #2563eb` with 2px offset.
+- **Secondary (Document Download, Save Draft):** Background `#ffffff`, border `1.5px solid #0f3460`, text `#0f3460`. On hover: background `#f8fafc`.
+- **Destructive / Urgent CTA (Express Expedite):** Background `#dc2626`, text `#ffffff`. Hover: `#b91c1c`.
+
+### Form Fields & Inputs
+- **Text Inputs, Dropdowns, Date Pickers:** Height `44px`, background `#ffffff`, border `1px solid #e2e8f0`, radius `0.5rem`. Placeholder text in `#94a3b8`.
+- **Focus State:** Border shifts directly to `#2563eb` with an outer ring blur: `box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12)`.
+- **Field Labels:** Styled with `label-md`, text `#0f172a`, with required markers marked in `#dc2626`.
+
+### Cards & Visa Tiers
+- **Structure:** Clean `#ffffff` fill, 1px border `#e2e8f0`, corner radius `1rem`, inner padding `space-lg`.
+- **Selection State:** Active visa category card transitions border to `2px solid #2563eb` and inserts an absolute-positioned verification checkmark badge in the upper right.
+
+### Trust Badges & Status Chips
+- **Approved / Verified:** Background `#ecfdf5`, border `1px solid #a7f3d0`, text `#065f46`, uppercase `label-sm`.
+- **Urgent / Expedited China Visa:** Background `#fef2f2`, border `1px solid #fecaca`, text `#dc2626`, uppercase `label-sm`.
+- **In-Progress / Standard Consular Processing:** Background `#eff6ff`, border `1px solid #bfdbfe`, text `#1e40af`, uppercase `label-sm`.
+
+### Checkboxes & Radio Selectors
+- Standard `20px x 20px`, border `1.5px solid #cbd5e1`, radius `4px` (checkbox) or circular (radio). 
+- Checked state fills with `#2563eb` with crisp `#ffffff` iconography.
+
+### Specialized Travel Service Components
+- **Passport Upload Zone:** Dashed border `2px dashed #cbd5e1`, background `#f8fafc`, transitioning to `#eff6ff` border `#2563eb` on file drag. Accompanied by micro-copy confirming automatic OCR parsing and secure data retention.
+- **Consular Timeline Stepper:** Linear chain connecting circular numeric nodes (`#0f3460` completed, `#2563eb` active with pulsing dot, `#e2e8f0` upcoming) with a 2px horizontal pipeline.
